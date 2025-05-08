@@ -1,2 +1,3 @@
 # bookbot
-boot.dev | Back-end Developer Path(Python &amp; Go) | Build a Bookbot in Python
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
